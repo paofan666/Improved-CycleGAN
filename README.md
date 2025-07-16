@@ -11,4 +11,4 @@ requirements:
   - numpy==1.19.2
   - visdom==0.1.8
   - wandb==0.12.18
-Dateset and Data augmentation results: https://pan.baidu.com/s/174TAKp2TXjFeFlF_B_oLKg 
+ - Dateset and Data augmentation results: https://pan.baidu.com/s/174TAKp2TXjFeFlF_B_oLKg 
